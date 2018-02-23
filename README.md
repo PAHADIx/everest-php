@@ -5,12 +5,9 @@
 I was a very big fan of the MVC-framework implemented by ASP.Net. This framwork implements very similar pattern and should be familiar to ASP.Net developers.
 
 # Installation
-Using composer:
-`composer require akitech/hooks`
-
-Set `"minimum-stability": "dev"` on your `composer.json` file.
-
-Or simply, download this repositoy as zip.
+- Using composer: `composer create-project akitech/hooks -s dev`
+- Using git: `git clone https://github.com/PAHADIx/hooks.git`
+- Or simply, download this repositoy as zip.
 
 
 # Docs
