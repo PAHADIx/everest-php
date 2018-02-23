@@ -4,5 +4,14 @@
 # The idea
 I was a very big fan of the MVC-framework implemented by ASP.Net. This framwork implements very similar pattern and should be familiar to ASP.Net developers.
 
+# Installation
+Using composer:
+`composer require akitech/hooks`
+
+Set `"minimum-stability": "dev"` on your `composer.json` file.
+
+Or simply, download this repositoy as zip.
+
+
 # Docs
 Docs are not being created. If you would like to contribute, please email to tika.pahadi@selu.edu or create a pull request.
