@@ -1,4 +1,4 @@
-# Hooks - Rapid Development PHP Framework
+# Everest - Rapid Development PHP Framework
  Hooks is a rapid development PHP MVC framework. It encompasses the MVC with partials and view components. It has in-built Database Helpers that help you develop apps in PHP rapidly.
 
 # The idea
@@ -6,7 +6,7 @@ I was a very big fan of the MVC-framework implemented by ASP.Net. This framwork 
 
 # Installation
 - Using composer: `composer create-project akitech/hooks -s dev`
-- Using git: `git clone https://github.com/PAHADIx/hooks.git`
+- Using git: `git clone https://github.com/PAHADIx/everest-php.git`
 - Or simply, download this repositoy as zip.
 
 
